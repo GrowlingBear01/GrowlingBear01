@@ -41,12 +41,6 @@ A design tool project.
 
 **Focus:** Frontend development
 
-### [Android TV Browser](https://github.com/GrowlingBear01/AndroidTvBrowser)
-An Android TV browser project.
-
-### [Lean TV Browser](https://github.com/GrowlingBear01/lean-tv-browser)
-A lightweight TV browser project.
-
 ---
 
 ## Tech Stack
