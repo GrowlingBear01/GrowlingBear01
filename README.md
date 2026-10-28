@@ -61,13 +61,4 @@ I turn ideas into useful products, from intelligent models to full-stack and mob
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GrowlingBear01&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowlingBear01&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
-
----
-
 <p align="center"><i>Build. Learn. Iterate.</i></p>
